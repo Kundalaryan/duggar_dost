@@ -1,6 +1,7 @@
 # duggar_dost
 
-A new Flutter project.
+A web based Application which is created for the purpose of goods delivery all across the Jammu And Kashmir.
+It will provide Livelihood Both to the delivery workers And Shopowners.
 
 ## Getting Started
 
